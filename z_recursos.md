@@ -3,3 +3,6 @@
 
 ## punto de venta
 - https://www.youtube.com/playlist?list=PLNagqj2BzZS6XjazwCb3Z1rCDcg0UXoHV
+
+## subir cambios al repositorio
+https://eduardo-arias.com/git-remote-como-funciona-la-conexion-de-repositorios/
